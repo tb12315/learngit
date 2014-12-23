@@ -6,4 +6,5 @@ git commit--
 git status--
 git log
 git diff
-
+git reset --hard commit_id--rollback the repo commit_id=(commit_id,HEAD^,HEAD^^...,HEAD~100)
+git reflog
