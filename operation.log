@@ -22,4 +22,6 @@ $ ssh-keygen -t rsa -C "youremail@example.com" //建立自己的ssh公钥私钥
 //将.ssh下的id_rsa.pub内容添加到自己github账号的sshkey集合中
 $ git remote add origin git@github.com:michaelliao/learngit.git //关联github远程库origin
 $ git push -u origin master //将本地的master分支推送到origin
+
+git clone git@github.com:tb12315/learngit.git//将github远程资源库clone到本地 
 */
