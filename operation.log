@@ -1,0 +1,9 @@
+git config --global user.name "derek.tian"
+git config --global user.email "807380254@qq.com"
+git init--
+git add--
+git commit--
+git status--
+git log
+git diff
+
